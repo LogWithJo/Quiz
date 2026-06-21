@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import { BrowserRouter } from "react-router-dom";
+import {  HashRouter } from "react-router-dom";
 
 import "./index.css";
 import { Toaster } from "sonner";
@@ -12,10 +12,10 @@ createRoot(document.getElementById("root")!).render(
 	<StrictMode>
 		<ThemeProvider defaultTheme="light">
 			<AppProvider>
-				<BrowserRouter>
+				<HashRouter>
 					<Toaster />
 					<App />
-				</BrowserRouter>
+				</HashRouter>
 			</AppProvider>
 		</ThemeProvider>
 	</StrictMode>,

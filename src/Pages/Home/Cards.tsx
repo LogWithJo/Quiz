@@ -54,7 +54,7 @@ function Cards() {
 
 		async function fetchData() {
 			try {
-				const res = await fetch("/data.json");
+				const res = await fetch(`${import.meta.env.BASE_URL}data.json`);
 				const info = (await res.json()) as QuizBank;
 
 				if (!ignore) {

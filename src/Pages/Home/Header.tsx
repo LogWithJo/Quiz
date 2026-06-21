@@ -1,8 +1,8 @@
-import Data from "@/context/AppContext";
 import { FaGithub } from "react-icons/fa";
+import Data from "@/context/AppContext";
 
 function Header({ type }: { type: string }) {
-	const {Quiz} = Data()
+	const { Quiz } = Data();
 	return (
 		<header className="flex justify-between items-center p-4">
 			<div className="font-bold px-4 py-2 shadow-lg text-2xl rounded-full">
@@ -18,7 +18,7 @@ function Header({ type }: { type: string }) {
 			</div>
 			<div className="font-bold text-2xl capitalize px-4 py-2 shadow-lg rounded-full">
 				<div className="flex items-center justify-center gap-3">
-					{type === 'Que' ? (
+					{type === "Que" ? (
 						`score: ${Quiz?.score}/${Quiz?.numberOfQuestions}`
 					) : (
 						<a
@@ -26,8 +26,10 @@ function Header({ type }: { type: string }) {
 							target="_blank"
 							rel="noopener noreferrer"
 						>
-							<FaGithub />
-							<div>github</div>
+							<div className='flex justify-center items-center flex-col'>
+								<FaGithub />
+								<div>github</div>
+							</div>
 						</a>
 					)}
 				</div>

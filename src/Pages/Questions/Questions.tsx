@@ -23,7 +23,7 @@ function Questions() {
 		<div className="h-screen flex flex-col gap-10">
 			<div>
 				<Header type={"Que"} />
-				<div className="flex flex-col gap-10">
+				<main className="flex flex-col gap-10">
 					<div className="flex flex-col justify-center items-center w-full p-6">
 						<div className="p-5 shadow-2xl text-2xl rounded-full">
 							{`${Quiz?.questionIndex}/${Quiz?.numberOfQuestions}`}
@@ -64,7 +64,7 @@ function Questions() {
 							</Button>
 						))}
 					</div>
-				</div>
+				</main>
 			</div>
 			<ActionButtons />
 		</div>

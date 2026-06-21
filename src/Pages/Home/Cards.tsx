@@ -38,9 +38,9 @@ const icons: Record<catogries, React.ReactNode> = {
 };
 
 const priorityTypes = [
-	{ title: priorities.easy, color: "bg-yellow-400" },
-	{ title: priorities.medium, color: "bg-orange-400" },
-	{ title: priorities.hard, color: "bg-red-400" },
+	{ title: priorities.easy, color: "bg-yellow-700" },
+	{ title: priorities.medium, color: "bg-orange-700" },
+	{ title: priorities.hard, color: "bg-red-700" },
 ];
 
 function Cards() {
@@ -111,7 +111,7 @@ function Cards() {
 	}
 
 	return (
-		<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 p-20 rounded-lg">
+		<main className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 p-20 rounded-lg">
 			{Datas.map((subject: catogries) => (
 				<Card
 					key={subject}
@@ -137,7 +137,7 @@ function Cards() {
 					</div>
 				</Card>
 			))}
-		</div>
+		</main>
 	);
 }
 

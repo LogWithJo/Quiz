@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 function Header({ type }: { type: string }) {
 	const {Quiz} = Data()
 	return (
-		<div className="flex justify-between items-center p-4">
+		<header className="flex justify-between items-center p-4">
 			<div className="font-bold px-4 py-2 shadow-lg text-2xl rounded-full">
 				<div className="flex items-center gap-2">
 					<div className="w-5 h-5">
@@ -27,11 +27,12 @@ function Header({ type }: { type: string }) {
 							rel="noopener noreferrer"
 						>
 							<FaGithub />
+							<div>github</div>
 						</a>
 					)}
 				</div>
 			</div>
-		</div>
+		</header>
 	);
 }
 

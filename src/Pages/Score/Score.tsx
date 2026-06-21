@@ -15,7 +15,7 @@ function Score() {
 	}, [Quiz, setQuiz])
 
 	return (
-		<div className="flex h-screen flex-col justify-center items-center gap-8">
+		<main className="flex h-screen flex-col justify-center items-center gap-8">
 			<div
 				className={`flex justify-center items-center flex-col capitalize text-3xl font-bold gap-4 ${((Quiz?.score || 0) / (Quiz?.numberOfQuestions || 0)) > 0.5 ? "text-green-600" : "text-red-600"}`}
 			>
@@ -29,7 +29,7 @@ function Score() {
 					<Link to="/">go home</Link>
 				</Button>
 			</div>
-		</div>
+		</main>
 	);
 }
 

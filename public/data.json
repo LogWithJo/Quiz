@@ -1,0 +1,1830 @@
+{
+	"programming": {
+		"easy": [
+			{
+				"id": 1,
+				"question": "Which keyword is used to declare a variable in modern JavaScript?",
+				"choices": ["let", "print", "echo", "def"],
+				"answer": "let",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 2,
+				"question": "Which language is primarily used for styling web pages?",
+				"choices": ["CSS", "Python", "Java", "C++"],
+				"answer": "CSS",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 3,
+				"question": "What does HTML stand for?",
+				"choices": [
+					"HyperText Markup Language",
+					"HighText Machine Language",
+					"Hyper Transfer Markup Language",
+					"Home Tool Markup Language"
+				],
+				"answer": "HyperText Markup Language",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 4,
+				"question": "Which symbol is commonly used for comments in Python?",
+				"choices": ["#", "//", "<!-- -->", "/* */"],
+				"answer": "#",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 5,
+				"question": "Which data type stores True or False values?",
+				"choices": ["Boolean", "String", "Array", "Float"],
+				"answer": "Boolean",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 6,
+				"question": "Which loop is guaranteed to execute at least once in many programming languages?",
+				"choices": ["do-while", "for", "while", "foreach"],
+				"answer": "do-while",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 7,
+				"question": "What is the output type of 5 / 2 in Python 3?",
+				"choices": ["float", "integer", "string", "boolean"],
+				"answer": "float",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 8,
+				"question": "Which keyword is used to create a function in Python?",
+				"choices": ["def", "func", "function", "create"],
+				"answer": "def",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 9,
+				"question": "What is an array?",
+				"choices": [
+					"A collection of elements",
+					"A type of loop",
+					"A database",
+					"A programming language"
+				],
+				"answer": "A collection of elements",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 10,
+				"question": "Which operator checks equality in JavaScript?",
+				"choices": ["==", "=", "!=", "+="],
+				"answer": "==",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 11,
+				"question": "Which language is known for its use in Android development?",
+				"choices": ["Java", "HTML", "PHP", "SQL"],
+				"answer": "Java",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 12,
+				"question": "What does SQL stand for?",
+				"choices": [
+					"Structured Query Language",
+					"Simple Query Language",
+					"System Query Language",
+					"Standard Question Language"
+				],
+				"answer": "Structured Query Language",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 13,
+				"question": "Which statement is used to make decisions in code?",
+				"choices": ["if", "for", "while", "break"],
+				"answer": "if",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 14,
+				"question": "What is a string?",
+				"choices": [
+					"A sequence of characters",
+					"A number",
+					"A loop",
+					"A function"
+				],
+				"answer": "A sequence of characters",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 15,
+				"question": "Which keyword exits a loop immediately?",
+				"choices": ["break", "continue", "return", "stop"],
+				"answer": "break",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 16,
+				"question": "Which operator is used for addition?",
+				"choices": ["+", "-", "*", "/"],
+				"answer": "+",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 17,
+				"question": "What does IDE stand for?",
+				"choices": [
+					"Integrated Development Environment",
+					"Internal Development Engine",
+					"Integrated Design Editor",
+					"Internet Development Environment"
+				],
+				"answer": "Integrated Development Environment",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"meduim": [
+			{
+				"id": 18,
+				"question": "Which of these is a version control system?",
+				"choices": ["Git", "Node.js", "React", "Docker"],
+				"answer": "Git",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 19,
+				"question": "Which data type stores whole numbers?",
+				"choices": ["Integer", "String", "Boolean", "Character"],
+				"answer": "Integer",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 20,
+				"question": "What is the result of 3 * 4?",
+				"choices": ["12", "7", "1", "16"],
+				"answer": "12",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 21,
+				"question": "Which keyword is used to return a value from a function?",
+				"choices": ["return", "break", "yield", "send"],
+				"answer": "return",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 22,
+				"question": "What is debugging?",
+				"choices": [
+					"Finding and fixing errors",
+					"Writing documentation",
+					"Creating variables",
+					"Installing software"
+				],
+				"answer": "Finding and fixing errors",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 23,
+				"question": "Which symbol is used to access properties in JavaScript objects?",
+				"choices": [".", "#", "@", "&"],
+				"answer": ".",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 24,
+				"question": "What is the purpose of a function?",
+				"choices": [
+					"To perform a reusable task",
+					"To store files",
+					"To create hardware",
+					"To manage databases only"
+				],
+				"answer": "To perform a reusable task",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 25,
+				"question": "Which of the following is a programming paradigm?",
+				"choices": ["Object-Oriented Programming", "HTML", "CSS", "Git"],
+				"answer": "Object-Oriented Programming",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 26,
+				"question": "What does OOP stand for?",
+				"choices": [
+					"Object-Oriented Programming",
+					"Object Operating Process",
+					"Operational Object Programming",
+					"Online Object Protocol"
+				],
+				"answer": "Object-Oriented Programming",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 27,
+				"question": "Which OOP principle hides implementation details?",
+				"choices": [
+					"Encapsulation",
+					"Inheritance",
+					"Polymorphism",
+					"Abstraction"
+				],
+				"answer": "Encapsulation",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 28,
+				"question": "What data structure follows the LIFO principle?",
+				"choices": ["Stack", "Queue", "Array", "Linked List"],
+				"answer": "Stack",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 29,
+				"question": "What data structure follows the FIFO principle?",
+				"choices": ["Queue", "Stack", "Tree", "Graph"],
+				"answer": "Queue",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 30,
+				"question": "What is the average time complexity of accessing an array element by index?",
+				"choices": ["O(1)", "O(n)", "O(log n)", "O(n²)"],
+				"answer": "O(1)",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 31,
+				"question": "Which Git command uploads local commits to a remote repository?",
+				"choices": ["git push", "git pull", "git fetch", "git clone"],
+				"answer": "git push",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 32,
+				"question": "Which Git command downloads changes from a remote repository and merges them?",
+				"choices": ["git pull", "git push", "git init", "git add"],
+				"answer": "git pull",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 33,
+				"question": "What is recursion?",
+				"choices": [
+					"A function calling itself",
+					"A type of database",
+					"A sorting algorithm",
+					"A variable declaration"
+				],
+				"answer": "A function calling itself",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 34,
+				"question": "Which data structure consists of nodes connected by pointers?",
+				"choices": ["Linked List", "Array", "Stack", "Tuple"],
+				"answer": "Linked List",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 35,
+				"question": "What is the purpose of an API?",
+				"choices": [
+					"Allow communication between software systems",
+					"Store files",
+					"Compile code",
+					"Create databases"
+				],
+				"answer": "Allow communication between software systems",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 36,
+				"question": "Which HTTP method is commonly used to retrieve data?",
+				"choices": ["GET", "POST", "DELETE", "PUT"],
+				"answer": "GET",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 37,
+				"question": "Which HTTP method is commonly used to create new data?",
+				"choices": ["POST", "GET", "DELETE", "PATCH"],
+				"answer": "POST",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 38,
+				"question": "What does JSON stand for?",
+				"choices": [
+					"JavaScript Object Notation",
+					"Java Source Object Network",
+					"Java Structured Object Notation",
+					"JavaScript Online Notation"
+				],
+				"answer": "JavaScript Object Notation",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"hard": [
+			{
+				"id": 39,
+				"question": "Which JavaScript method converts a JSON string into an object?",
+				"choices": [
+					"JSON.parse()",
+					"JSON.stringify()",
+					"Object.parse()",
+					"parseJSON()"
+				],
+				"answer": "JSON.parse()",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 40,
+				"question": "Which JavaScript method converts an object into a JSON string?",
+				"choices": [
+					"JSON.stringify()",
+					"JSON.parse()",
+					"Object.stringify()",
+					"toJSON()"
+				],
+				"answer": "JSON.stringify()",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 41,
+				"question": "What is Big O notation used for?",
+				"choices": [
+					"Describing algorithm efficiency",
+					"Creating classes",
+					"Managing databases",
+					"Debugging code"
+				],
+				"answer": "Describing algorithm efficiency",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 42,
+				"question": "What is the worst-case time complexity of linear search?",
+				"choices": ["O(n)", "O(1)", "O(log n)", "O(n log n)"],
+				"answer": "O(n)",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 43,
+				"question": "What is the worst-case time complexity of binary search?",
+				"choices": ["O(log n)", "O(n)", "O(n²)", "O(1)"],
+				"answer": "O(log n)",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 44,
+				"question": "Which data structure is commonly used for implementing binary search?",
+				"choices": ["Sorted Array", "Queue", "Stack", "Graph"],
+				"answer": "Sorted Array",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 45,
+				"question": "In React, what hook is commonly used for state management?",
+				"choices": ["useState", "useEffect", "useRef", "useMemo"],
+				"answer": "useState",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 46,
+				"question": "In React, which hook is used for side effects?",
+				"choices": ["useEffect", "useState", "useContext", "useReducer"],
+				"answer": "useEffect",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 47,
+				"question": "What is a React component?",
+				"choices": [
+					"A reusable UI building block",
+					"A database table",
+					"A CSS file",
+					"A Git branch"
+				],
+				"answer": "A reusable UI building block",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 48,
+				"question": "What is a primary key in a database?",
+				"choices": [
+					"A unique identifier for a record",
+					"A duplicate value",
+					"A table relationship",
+					"A backup key"
+				],
+				"answer": "A unique identifier for a record",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 49,
+				"question": "Which SQL command retrieves data from a table?",
+				"choices": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+				"answer": "SELECT",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 50,
+				"question": "Which SQL command adds a new row to a table?",
+				"choices": ["INSERT", "SELECT", "DROP", "ALTER"],
+				"answer": "INSERT",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		]
+	},
+	"cooking": {
+		"easy": [
+			{
+				"id": 1,
+				"question": "What ingredient is primarily used to make bread rise?",
+				"choices": ["Yeast", "Salt", "Sugar", "Butter"],
+				"answer": "Yeast",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 2,
+				"question": "Which cooking method uses dry heat in an oven?",
+				"choices": ["Baking", "Boiling", "Steaming", "Poaching"],
+				"answer": "Baking",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 3,
+				"question": "What is the main ingredient in mashed potatoes?",
+				"choices": ["Potatoes", "Rice", "Carrots", "Beans"],
+				"answer": "Potatoes",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 4,
+				"question": "Which knife is commonly used for chopping vegetables?",
+				"choices": [
+					"Chef's Knife",
+					"Bread Knife",
+					"Paring Knife",
+					"Boning Knife"
+				],
+				"answer": "Chef's Knife",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 5,
+				"question": "What does it mean to sauté food?",
+				"choices": [
+					"Cook quickly in a small amount of oil",
+					"Cook in boiling water",
+					"Cook slowly in the oven",
+					"Cook over steam"
+				],
+				"answer": "Cook quickly in a small amount of oil",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 6,
+				"question": "Which ingredient is used to thicken many sauces?",
+				"choices": ["Flour", "Salt", "Vinegar", "Milk"],
+				"answer": "Flour",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 7,
+				"question": "What is the boiling point of water at sea level?",
+				"choices": ["100°C", "90°C", "80°C", "120°C"],
+				"answer": "100°C",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 8,
+				"question": "Which herb is commonly used in pesto?",
+				"choices": ["Basil", "Parsley", "Mint", "Rosemary"],
+				"answer": "Basil",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 9,
+				"question": "What is the main ingredient in guacamole?",
+				"choices": ["Avocado", "Tomato", "Cucumber", "Pepper"],
+				"answer": "Avocado",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 10,
+				"question": "Which cooking method involves food being submerged in hot oil?",
+				"choices": ["Deep Frying", "Steaming", "Grilling", "Roasting"],
+				"answer": "Deep Frying",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"meduim": [
+			{
+				"id": 11,
+				"question": "What does al dente mean when cooking pasta?",
+				"choices": [
+					"Firm to the bite",
+					"Overcooked",
+					"Very soft",
+					"Undercooked"
+				],
+				"answer": "Firm to the bite",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 12,
+				"question": "Which mother sauce is made from milk and a roux?",
+				"choices": ["Béchamel", "Velouté", "Espagnole", "Hollandaise"],
+				"answer": "Béchamel",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 13,
+				"question": "What is a roux made from?",
+				"choices": [
+					"Flour and fat",
+					"Milk and sugar",
+					"Eggs and butter",
+					"Water and flour"
+				],
+				"answer": "Flour and fat",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 14,
+				"question": "Which cut of vegetables is a small cube?",
+				"choices": ["Dice", "Julienne", "Chiffonade", "Brunoise"],
+				"answer": "Dice",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 15,
+				"question": "What does it mean to blanch vegetables?",
+				"choices": [
+					"Briefly boil then cool rapidly",
+					"Cook in oil",
+					"Bake until brown",
+					"Steam for an hour"
+				],
+				"answer": "Briefly boil then cool rapidly",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 16,
+				"question": "Which ingredient is the primary protein in tofu?",
+				"choices": ["Soybeans", "Peanuts", "Chickpeas", "Lentils"],
+				"answer": "Soybeans",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 17,
+				"question": "What is the purpose of resting meat after cooking?",
+				"choices": [
+					"Redistribute juices",
+					"Cool it completely",
+					"Add flavor",
+					"Reduce weight"
+				],
+				"answer": "Redistribute juices",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"hard": [
+			{
+				"id": 18,
+				"question": "Which type of rice is commonly used for risotto?",
+				"choices": ["Arborio", "Basmati", "Jasmine", "Wild Rice"],
+				"answer": "Arborio",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 19,
+				"question": "What is the French term for 'everything in its place'?",
+				"choices": ["Mise en place", "Sous vide", "Julienne", "Roux"],
+				"answer": "Mise en place",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 20,
+				"question": "Which cooking method involves sealing food in a bag and cooking it in water at a controlled temperature?",
+				"choices": ["Sous Vide", "Roasting", "Broiling", "Poaching"],
+				"answer": "Sous Vide",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 21,
+				"question": "Which sugar stage is reached at approximately 150°C?",
+				"choices": ["Hard Crack", "Soft Ball", "Firm Ball", "Thread"],
+				"answer": "Hard Crack",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 22,
+				"question": "What causes bread to develop gluten?",
+				"choices": [
+					"Mixing and kneading",
+					"Adding sugar",
+					"Adding salt",
+					"Cooling the dough"
+				],
+				"answer": "Mixing and kneading",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 23,
+				"question": "Which French sauce is an emulsion of egg yolks and butter?",
+				"choices": ["Hollandaise", "Béchamel", "Velouté", "Espagnole"],
+				"answer": "Hollandaise",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 24,
+				"question": "What is the Maillard reaction?",
+				"choices": [
+					"Browning caused by amino acids and sugars",
+					"Water evaporation",
+					"Freezing of food",
+					"Fermentation by yeast"
+				],
+				"answer": "Browning caused by amino acids and sugars",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 25,
+				"question": "Which cooking technique slowly cooks food in fat at a low temperature?",
+				"choices": ["Confit", "Searing", "Blanching", "Deglazing"],
+				"answer": "Confit",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		]
+	},
+	"gym": {
+		"easy": [
+			{
+				"id": 1,
+				"question": "Which exercise primarily targets the chest muscles?",
+				"choices": ["Bench Press", "Squat", "Deadlift", "Pull-Up"],
+				"answer": "Bench Press",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 2,
+				"question": "Which muscle group is primarily worked during a squat?",
+				"choices": ["Quadriceps", "Biceps", "Shoulders", "Forearms"],
+				"answer": "Quadriceps",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 3,
+				"question": "What is the recommended warm-up before a workout?",
+				"choices": [
+					"Light Cardio",
+					"Heavy Lifting",
+					"Sleeping",
+					"Eating a Large Meal"
+				],
+				"answer": "Light Cardio",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 4,
+				"question": "Which exercise is considered a compound movement?",
+				"choices": ["Deadlift", "Bicep Curl", "Leg Extension", "Lateral Raise"],
+				"answer": "Deadlift",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 5,
+				"question": "What does BMI stand for?",
+				"choices": [
+					"Body Mass Index",
+					"Body Muscle Indicator",
+					"Basic Muscle Intake",
+					"Body Measurement Index"
+				],
+				"answer": "Body Mass Index",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 6,
+				"question": "Which muscle is primarily trained during pull-ups?",
+				"choices": ["Latissimus Dorsi", "Quadriceps", "Chest", "Calves"],
+				"answer": "Latissimus Dorsi",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 7,
+				"question": "What nutrient is most important for muscle repair?",
+				"choices": ["Protein", "Sugar", "Sodium", "Fiber"],
+				"answer": "Protein",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 8,
+				"question": "Which exercise mainly targets the shoulders?",
+				"choices": ["Overhead Press", "Leg Press", "Crunch", "Calf Raise"],
+				"answer": "Overhead Press",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 9,
+				"question": "What is the primary purpose of stretching after exercise?",
+				"choices": [
+					"Improve Flexibility",
+					"Build Muscle",
+					"Burn Fat",
+					"Increase Height"
+				],
+				"answer": "Improve Flexibility",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"meduim": [
+			{
+				"id": 10,
+				"question": "Which equipment is commonly used for cardiovascular training?",
+				"choices": ["Treadmill", "Barbell", "Dumbbell", "Power Rack"],
+				"answer": "Treadmill",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 11,
+				"question": "What is progressive overload?",
+				"choices": [
+					"Gradually increasing training demands",
+					"Skipping workouts",
+					"Reducing exercise intensity",
+					"Training only once a week"
+				],
+				"answer": "Gradually increasing training demands",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 12,
+				"question": "Which muscle group is primarily targeted by deadlifts?",
+				"choices": ["Posterior Chain", "Chest", "Triceps", "Calves"],
+				"answer": "Posterior Chain",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 13,
+				"question": "What does DOMS stand for?",
+				"choices": [
+					"Delayed Onset Muscle Soreness",
+					"Daily Overload Muscle System",
+					"Dynamic Output Muscle Strength",
+					"Delayed Overtraining Muscle Syndrome"
+				],
+				"answer": "Delayed Onset Muscle Soreness",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 14,
+				"question": "How many calories are approximately in one gram of protein?",
+				"choices": ["4", "9", "7", "2"],
+				"answer": "4",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 15,
+				"question": "Which rep range is commonly associated with hypertrophy?",
+				"choices": ["6-12", "1-3", "20-30", "40-50"],
+				"answer": "6-12",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 16,
+				"question": "What is a superset?",
+				"choices": [
+					"Two exercises performed back-to-back",
+					"A heavy single repetition",
+					"A cardio session",
+					"A stretching routine"
+				],
+				"answer": "Two exercises performed back-to-back",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 17,
+				"question": "Which exercise primarily targets the hamstrings?",
+				"choices": [
+					"Romanian Deadlift",
+					"Bench Press",
+					"Push-Up",
+					"Shoulder Press"
+				],
+				"answer": "Romanian Deadlift",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 18,
+				"question": "What is the main energy source for short, intense exercise?",
+				"choices": ["Glycogen", "Fiber", "Vitamins", "Water"],
+				"answer": "Glycogen",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"hard": [
+			{
+				"id": 19,
+				"question": "What is a spotter used for?",
+				"choices": [
+					"Assisting during heavy lifts",
+					"Tracking calories",
+					"Cleaning equipment",
+					"Timing workouts"
+				],
+				"answer": "Assisting during heavy lifts",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 20,
+				"question": "Which exercise is most associated with triceps development?",
+				"choices": ["Tricep Pushdown", "Leg Curl", "Shrug", "Crunch"],
+				"answer": "Tricep Pushdown",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 21,
+				"question": "What is the primary role of ATP in muscle contraction?",
+				"choices": [
+					"Provide energy",
+					"Store fat",
+					"Build bone",
+					"Transport oxygen"
+				],
+				"answer": "Provide energy",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 22,
+				"question": "Which muscle fiber type is most resistant to fatigue?",
+				"choices": ["Type I", "Type IIx", "Type IIb", "Fast Twitch"],
+				"answer": "Type I",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 23,
+				"question": "What is the eccentric phase of a bicep curl?",
+				"choices": [
+					"Lowering the weight",
+					"Lifting the weight",
+					"Holding the weight",
+					"Dropping the weight"
+				],
+				"answer": "Lowering the weight",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 24,
+				"question": "Which training principle states that adaptations are specific to the activity performed?",
+				"choices": [
+					"SAID Principle",
+					"FITT Principle",
+					"Overload Principle",
+					"Recovery Principle"
+				],
+				"answer": "SAID Principle",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 25,
+				"question": "What is the main benefit of periodization?",
+				"choices": [
+					"Managing training variables over time",
+					"Reducing hydration",
+					"Eliminating recovery",
+					"Avoiding strength gains"
+				],
+				"answer": "Managing training variables over time",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 26,
+				"question": "Which hormone plays a major role in muscle growth?",
+				"choices": ["Testosterone", "Melatonin", "Cortisol", "Histamine"],
+				"answer": "Testosterone",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 27,
+				"question": "What is the Valsalva maneuver commonly used for in lifting?",
+				"choices": [
+					"Increasing core stability",
+					"Reducing heart rate",
+					"Improving flexibility",
+					"Cooling the body"
+				],
+				"answer": "Increasing core stability",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 28,
+				"question": "Which movement plane is primarily involved in a squat?",
+				"choices": [
+					"Sagittal Plane",
+					"Frontal Plane",
+					"Transverse Plane",
+					"Coronal Plane"
+				],
+				"answer": "Sagittal Plane",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 29,
+				"question": "What is training volume typically calculated as?",
+				"choices": [
+					"Sets x Reps x Weight",
+					"Weight ÷ Reps",
+					"Sets x Rest Time",
+					"Calories x Protein"
+				],
+				"answer": "Sets x Reps x Weight",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 30,
+				"question": "Which recovery factor is generally considered most important for muscle growth?",
+				"choices": ["Sleep", "Music", "Supplements", "Workout Duration"],
+				"answer": "Sleep",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		]
+	},
+	"movie": {
+		"easy": [
+			{
+				"id": 1,
+				"question": "Which movie features the character Jack Dawson?",
+				"choices": ["Titanic", "Avatar", "Inception", "Gladiator"],
+				"answer": "Titanic",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 2,
+				"question": "Who directed the movie 'Jurassic Park'?",
+				"choices": [
+					"Steven Spielberg",
+					"James Cameron",
+					"Christopher Nolan",
+					"Martin Scorsese"
+				],
+				"answer": "Steven Spielberg",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 3,
+				"question": "Which movie features a young wizard named Harry Potter?",
+				"choices": [
+					"Harry Potter and the Sorcerer's Stone",
+					"The Hobbit",
+					"Narnia",
+					"Percy Jackson"
+				],
+				"answer": "Harry Potter and the Sorcerer's Stone",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 4,
+				"question": "What color is Shrek?",
+				"choices": ["Green", "Blue", "Red", "Yellow"],
+				"answer": "Green",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 5,
+				"question": "Which animated movie features the character Lightning McQueen?",
+				"choices": ["Cars", "Toy Story", "Frozen", "Moana"],
+				"answer": "Cars",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 6,
+				"question": "Who is Iron Man in the Marvel movies?",
+				"choices": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Thor"],
+				"answer": "Tony Stark",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 7,
+				"question": "Which movie franchise features the character Darth Vader?",
+				"choices": ["Star Wars", "Star Trek", "Avatar", "Dune"],
+				"answer": "Star Wars",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 8,
+				"question": "What is the name of Simba's father in The Lion King?",
+				"choices": ["Mufasa", "Scar", "Timon", "Pumbaa"],
+				"answer": "Mufasa",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 9,
+				"question": "Which movie is about blue aliens living on Pandora?",
+				"choices": ["Avatar", "Dune", "Interstellar", "The Matrix"],
+				"answer": "Avatar",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 10,
+				"question": "Which movie features the quote 'I'll be back'?",
+				"choices": ["The Terminator", "Rocky", "Rambo", "Predator"],
+				"answer": "The Terminator",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"medium": [
+			{
+				"id": 11,
+				"question": "Who directed the movie 'Inception'?",
+				"choices": [
+					"Christopher Nolan",
+					"James Cameron",
+					"Ridley Scott",
+					"Peter Jackson"
+				],
+				"answer": "Christopher Nolan",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 12,
+				"question": "In 'The Matrix', what color pill does Neo take?",
+				"choices": ["Red", "Blue", "Green", "Yellow"],
+				"answer": "Red",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 13,
+				"question": "Which movie won the Academy Award for Best Picture in 1998?",
+				"choices": [
+					"Titanic",
+					"Good Will Hunting",
+					"L.A. Confidential",
+					"As Good as It Gets"
+				],
+				"answer": "Titanic",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 14,
+				"question": "Which actor played the Joker in 'The Dark Knight'?",
+				"choices": [
+					"Heath Ledger",
+					"Joaquin Phoenix",
+					"Jack Nicholson",
+					"Jared Leto"
+				],
+				"answer": "Heath Ledger",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 15,
+				"question": "What is the highest-grossing movie of all time (without inflation adjustment)?",
+				"choices": [
+					"Avatar",
+					"Titanic",
+					"Avengers: Endgame",
+					"Star Wars: The Force Awakens"
+				],
+				"answer": "Avatar",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 16,
+				"question": "Which movie follows the journey of Frodo Baggins?",
+				"choices": [
+					"The Lord of the Rings",
+					"The Hobbit",
+					"Harry Potter",
+					"Willow"
+				],
+				"answer": "The Lord of the Rings",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 17,
+				"question": "Who directed the 'Lord of the Rings' trilogy?",
+				"choices": [
+					"Peter Jackson",
+					"George Lucas",
+					"Steven Spielberg",
+					"James Cameron"
+				],
+				"answer": "Peter Jackson",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 18,
+				"question": "Which movie takes place mostly aboard a ship called the RMS Titanic?",
+				"choices": [
+					"Titanic",
+					"Poseidon",
+					"The Perfect Storm",
+					"Master and Commander"
+				],
+				"answer": "Titanic",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 19,
+				"question": "What is the name of the kingdom in Frozen?",
+				"choices": ["Arendelle", "Corona", "Atlantica", "DunBroch"],
+				"answer": "Arendelle",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 20,
+				"question": "Which actor portrayed Wolverine in most X-Men films?",
+				"choices": [
+					"Hugh Jackman",
+					"Ryan Reynolds",
+					"Chris Evans",
+					"Tom Hardy"
+				],
+				"answer": "Hugh Jackman",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"hard": [
+			{
+				"id": 21,
+				"question": "Which movie won Best Picture at the 2020 Academy Awards?",
+				"choices": ["Parasite", "1917", "Joker", "Ford v Ferrari"],
+				"answer": "Parasite",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 22,
+				"question": "Who composed the soundtrack for 'Interstellar'?",
+				"choices": [
+					"Hans Zimmer",
+					"John Williams",
+					"Howard Shore",
+					"Danny Elfman"
+				],
+				"answer": "Hans Zimmer",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 23,
+				"question": "In which movie does the character Travis Bickle appear?",
+				"choices": ["Taxi Driver", "Goodfellas", "The Godfather", "Heat"],
+				"answer": "Taxi Driver",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 24,
+				"question": "Which director is known for the films 'Pulp Fiction' and 'Kill Bill'?",
+				"choices": [
+					"Quentin Tarantino",
+					"Martin Scorsese",
+					"David Fincher",
+					"Ridley Scott"
+				],
+				"answer": "Quentin Tarantino",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 25,
+				"question": "Which film is widely credited with popularizing the summer blockbuster?",
+				"choices": ["Jaws", "Star Wars", "E.T.", "Raiders of the Lost Ark"],
+				"answer": "Jaws",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		]
+	},
+	"science": {
+		"easy": [
+			{
+				"id": 1,
+				"question": "What planet is known as the Red Planet?",
+				"choices": ["Mars", "Venus", "Jupiter", "Mercury"],
+				"answer": "Mars",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 2,
+				"question": "What gas do humans need to breathe?",
+				"choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+				"answer": "Oxygen",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 3,
+				"question": "What is the center of an atom called?",
+				"choices": ["Nucleus", "Electron", "Proton", "Orbit"],
+				"answer": "Nucleus",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 4,
+				"question": "Which organ pumps blood in the human body?",
+				"choices": ["Heart", "Lungs", "Liver", "Brain"],
+				"answer": "Heart",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 5,
+				"question": "What force keeps us on the ground?",
+				"choices": ["Gravity", "Magnetism", "Friction", "Pressure"],
+				"answer": "Gravity",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 6,
+				"question": "What is H2O commonly known as?",
+				"choices": ["Water", "Hydrogen", "Oxygen", "Salt"],
+				"answer": "Water",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 7,
+				"question": "What planet do we live on?",
+				"choices": ["Earth", "Mars", "Venus", "Saturn"],
+				"answer": "Earth",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 8,
+				"question": "What is the main source of energy for Earth?",
+				"choices": ["Sun", "Moon", "Wind", "Ocean"],
+				"answer": "Sun",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 9,
+				"question": "Which part of the plant absorbs water?",
+				"choices": ["Roots", "Leaves", "Stem", "Flower"],
+				"answer": "Roots",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"medium": [
+			{
+				"id": 10,
+				"question": "What is the process by which plants make food?",
+				"choices": [
+					"Photosynthesis",
+					"Respiration",
+					"Digestion",
+					"Fermentation"
+				],
+				"answer": "Photosynthesis",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 11,
+				"question": "What is the speed of light approximately?",
+				"choices": ["300,000 km/s", "30,000 km/s", "3,000 km/s", "300 km/s"],
+				"answer": "300,000 km/s",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 12,
+				"question": "Which scientist developed the theory of relativity?",
+				"choices": [
+					"Albert Einstein",
+					"Isaac Newton",
+					"Galileo Galilei",
+					"Nikola Tesla"
+				],
+				"answer": "Albert Einstein",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 13,
+				"question": "What is the chemical symbol for gold?",
+				"choices": ["Au", "Ag", "Go", "Gd"],
+				"answer": "Au",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 14,
+				"question": "What is the powerhouse of the cell?",
+				"choices": ["Mitochondria", "Nucleus", "Ribosome", "Cell Wall"],
+				"answer": "Mitochondria",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 15,
+				"question": "What type of energy is stored in food?",
+				"choices": [
+					"Chemical energy",
+					"Kinetic energy",
+					"Thermal energy",
+					"Nuclear energy"
+				],
+				"answer": "Chemical energy",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 16,
+				"question": "What is the boiling point of water at sea level?",
+				"choices": ["100°C", "90°C", "80°C", "120°C"],
+				"answer": "100°C",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"hard": [
+			{
+				"id": 17,
+				"question": "Which planet has the most moons?",
+				"choices": ["Saturn", "Earth", "Mars", "Mercury"],
+				"answer": "Saturn",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 18,
+				"question": "What is the hardest natural substance on Earth?",
+				"choices": ["Diamond", "Gold", "Iron", "Quartz"],
+				"answer": "Diamond",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 19,
+				"question": "What is the main gas found in Earth's atmosphere?",
+				"choices": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+				"answer": "Nitrogen",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 20,
+				"question": "What organ system is responsible for breathing?",
+				"choices": [
+					"Respiratory system",
+					"Digestive system",
+					"Nervous system",
+					"Circulatory system"
+				],
+				"answer": "Respiratory system",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 21,
+				"question": "What is quantum physics mainly about?",
+				"choices": [
+					"Behavior of particles at atomic scale",
+					"Planetary motion",
+					"Human biology",
+					"Chemical reactions only"
+				],
+				"answer": "Behavior of particles at atomic scale",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 22,
+				"question": "What is the Heisenberg Uncertainty Principle related to?",
+				"choices": [
+					"Position and momentum of particles",
+					"Speed of light",
+					"Gravity waves",
+					"DNA structure"
+				],
+				"answer": "Position and momentum of particles",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 23,
+				"question": "What is the main component of the Sun?",
+				"choices": ["Hydrogen", "Oxygen", "Carbon", "Helium only"],
+				"answer": "Hydrogen",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 24,
+				"question": "What is radioactive decay?",
+				"choices": [
+					"Breakdown of unstable atomic nuclei",
+					"Melting of metals",
+					"Growth of bacteria",
+					"Evaporation of liquids"
+				],
+				"answer": "Breakdown of unstable atomic nuclei",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 25,
+				"question": "What is DNA responsible for?",
+				"choices": [
+					"Genetic information storage",
+					"Energy production",
+					"Blood circulation",
+					"Muscle contraction"
+				],
+				"answer": "Genetic information storage",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		]
+	},
+	"math": {
+		"easy": [
+			{
+				"id": 1,
+				"question": "What is 2 + 2?",
+				"choices": ["3", "4", "5", "6"],
+				"answer": "4",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 2,
+				"question": "What is 10 - 7?",
+				"choices": ["2", "3", "4", "5"],
+				"answer": "3",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 3,
+				"question": "What is 5 × 3?",
+				"choices": ["15", "10", "20", "25"],
+				"answer": "15",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 4,
+				"question": "What is 12 ÷ 4?",
+				"choices": ["2", "3", "4", "6"],
+				"answer": "3",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 5,
+				"question": "What is 9 + 6?",
+				"choices": ["13", "14", "15", "16"],
+				"answer": "15",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 6,
+				"question": "What is 7 × 2?",
+				"choices": ["12", "14", "16", "18"],
+				"answer": "14",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 7,
+				"question": "What is 20 - 5?",
+				"choices": ["10", "15", "20", "25"],
+				"answer": "15",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 8,
+				"question": "What is 8 × 8?",
+				"choices": ["54", "56", "64", "72"],
+				"answer": "64",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 9,
+				"question": "What is 100 ÷ 10?",
+				"choices": ["5", "10", "15", "20"],
+				"answer": "10",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"medium": [
+			{
+				"id": 10,
+				"question": "What is 11 + 11?",
+				"choices": ["20", "21", "22", "23"],
+				"answer": "22",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 11,
+				"question": "What is the value of π approximately?",
+				"choices": ["3.14", "2.17", "1.62", "4.20"],
+				"answer": "3.14",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 12,
+				"question": "What is the square of 6?",
+				"choices": ["30", "36", "42", "48"],
+				"answer": "36",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 13,
+				"question": "What is the square root of 81?",
+				"choices": ["7", "8", "9", "10"],
+				"answer": "9",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 14,
+				"question": "What is 15% of 200?",
+				"choices": ["20", "25", "30", "35"],
+				"answer": "30",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 15,
+				"question": "What is 3³?",
+				"choices": ["6", "9", "27", "81"],
+				"answer": "27",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 16,
+				"question": "What is the perimeter of a square with side 5?",
+				"choices": ["10", "15", "20", "25"],
+				"answer": "20",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		],
+		"hard": [
+			{
+				"id": 17,
+				"question": "What is 50 ÷ 5?",
+				"choices": ["5", "10", "15", "20"],
+				"answer": "10",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 18,
+				"question": "What is 7²?",
+				"choices": ["42", "49", "56", "64"],
+				"answer": "49",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 19,
+				"question": "What is 1/2 + 1/2?",
+				"choices": ["1", "2", "1/4", "3/4"],
+				"answer": "1",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 20,
+				"question": "What is 0.5 + 0.25?",
+				"choices": ["0.75", "0.5", "0.25", "1"],
+				"answer": "0.75",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 21,
+				"question": "What is the formula for the area of a circle?",
+				"choices": ["πr²", "2πr", "πd", "r²"],
+				"answer": "πr²",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 22,
+				"question": "What is the derivative of x²?",
+				"choices": ["2x", "x", "x²", "2"],
+				"answer": "2x",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 23,
+				"question": "What is the value of log10(100)?",
+				"choices": ["1", "2", "10", "100"],
+				"answer": "2",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 24,
+				"question": "What is the sum of angles in a triangle?",
+				"choices": ["90°", "180°", "270°", "360°"],
+				"answer": "180°",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 25,
+				"question": "What is the Pythagorean theorem?",
+				"choices": ["a² + b² = c²", "a + b = c", "ab = c²", "a² - b² = c"],
+				"answer": "a² + b² = c²",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 26,
+				"question": "What is the value of sin(90°)?",
+				"choices": ["0", "1", "-1", "0.5"],
+				"answer": "1",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 27,
+				"question": "What is 2⁵?",
+				"choices": ["16", "32", "64", "128"],
+				"answer": "32",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 28,
+				"question": "What is the slope formula?",
+				"choices": ["(y2-y1)/(x2-x1)", "x/y", "y/x", "x2+y2"],
+				"answer": "(y2-y1)/(x2-x1)",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 29,
+				"question": "What is the factorial of 5?",
+				"choices": ["60", "100", "120", "150"],
+				"answer": "120",
+				"isClicked": null,
+				"isCorrect": null
+			},
+			{
+				"id": 30,
+				"question": "What is 10²?",
+				"choices": ["10", "50", "100", "1000"],
+				"answer": "100",
+				"isClicked": null,
+				"isCorrect": null
+			}
+		]
+	}
+}
